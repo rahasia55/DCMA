@@ -18,8 +18,6 @@ I created the app icon and store listing content for **GS Tools**.
 **Listing Title:** GS Tools - ML Injector Skin
 
 **Listing Description:**
-Referensi Hero Lengkap: Statistik, Kombinasi Skill & Injektor Skin ML
-
 GS Tools : ML Skin Injector is an unofficial companion app for MOBA games that helps players learn hero stats, skill combos, recommended item builds, and gameplay strategies through easy-to-access references.
 
 The app is designed as an educational resource to help players better understand heroes, game mechanics, and effective strategies with a simple and user-friendly interface.
